@@ -55,5 +55,3 @@ index.htlm
   </ul>
 </body>
 </html>
-
-.
