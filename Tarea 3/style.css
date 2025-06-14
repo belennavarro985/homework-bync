@@ -9,12 +9,12 @@ body {
     line-height: 1.6;
   }
   
-  h1 {
+  h1 {Belén Navarro
     color: #005fa3;
     text-align: center;
   }
   
-  h2 {
+  h2 {Contacto
     margin-top: 30px;
     color: #333;
     border-bottom: 1px solid #ccc;
@@ -22,21 +22,22 @@ body {
   }
   
   .intro {
+      Experiencia
     font-style: italic;
     margin-bottom: 20px;
     text-align: center;
   }
   
-  ul {
+  ul {Educación
     list-style-type: none;
     padding-left: 0;
   }
   
-  ul li {
+  ul li {aptitudes
     margin-bottom: 10px;
   }
   
-  a {
+  a {voluntariado
     color: #005fa3;
     text-decoration: none;
   }
